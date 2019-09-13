@@ -27,3 +27,6 @@ hs_err_pid*
 
 # target directory
 /target/*
+
+# Mac DS Store
+.DS_Store
